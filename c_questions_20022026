@@ -1,0 +1,9 @@
+Write a C program to print your name without using semicolon
+Write a C program to find the size (number of elements) of an array using the sizeof operator.
+Write a C program to remove duplicate elements from an array and print only the unique elements.
+Write a C program to rotate the elements of an array to the left by n positions.
+Write a C program to calculate and print the sum of all elements in an array.
+Write a C program to print a diamond star (*) pattern for a given number of rows.
+Write a C program to print a pyramid star (*) pattern for a given number of rows.
+Write a C program to check whether the given array is a palindrome or not. (An array is palindrome if it reads the same forward and backward.)
+Write a C program to find the missing number from an array containing numbers from 1 to n, where exactly one number is missing.
