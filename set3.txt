@@ -1,0 +1,22 @@
+1. Write a program to calculate $x^y$ using the pow() function from <math.h>.
+2. Create a program using switch to check if a character is a Vowel or Consonant.
+3. Write a program to print the Fibonacci series up to 50 using iteration.
+4. Implement a program to check if a number is an Armstrong Number.
+5. Write a program to generate all Prime Numbers between 1 and 100.
+6. Create a program to sort an array of 5 integers in ascending order (Bubble Sort).
+7. Write a program to merge two small arrays into a single larger array.
+8. Implement a program to find the frequency of a specific number in an array.
+9. Write a program to check if a 3x3 matrix is an Identity Matrix.
+10. Create a function void greet() that prints a message but returns no value.
+11. Write a function checkPrime(int n) that prints whether the argument is prime.
+12. Implement a recursive function to calculate the sum of digits of a number.
+13. Write a program to convert a lowercase string to uppercase using strupr().
+14. Create a program to count the number of words in a sentence.
+15. Implement a program to copy a string to another variable without using strcpy().
+16. Demonstrate the difference between Pre-increment (++i) and Post-increment (i++) in a loop.
+17. Write a program using Bitwise XOR to swap two numbers.
+18. Create a program that uses sizeof to calculate the number of elements in an array automatically.
+19. Write a program to sum the diagonal elements of a 3x3 matrix.
+20. Create a program to find the second largest element in an array.
+21. Implement a function that accepts a 2D array as a parameter and prints it.
+22. Write a program to determine if a student passes (marks > 40) using the Ternary Operator (? :).

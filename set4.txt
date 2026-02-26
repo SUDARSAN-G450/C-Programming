@@ -1,0 +1,22 @@
+1. Write a program to check if a character is an alphabet, digit, or special symbol.
+2. Create a program to calculate Simple Interest using float variables.
+3. Write a program to print the ASCII characters from A to Z using a loop.
+4. Implement a program to reverse a number using Recursion.
+5. Write a program to find the Greatest Common Divisor (GCD) of two numbers.
+6. Create a program to rotate the elements of an array to the left by 1 position.
+7. Write a program to remove duplicate elements from an array.
+8. Implement a program to subtract Matrix B from Matrix A.
+9. Write a program to check if a matrix is Symmetric ($A[i][j] == A[j][i]$).
+10. Create a user-defined function that accepts a string and prints it in reverse.
+11. Write a recursive function to compute the power of a number ($x^n$).
+12. Implement a program using sqrt() and ceil() functions.
+13. Write a program to count Uppercase, Lowercase, and Digits in a mixed string.
+14. Create a program to replace all spaces in a string with underscores _.
+15. Write a program to sort a list of characters alphabetically.
+16. Implement a program to search for a character in a string and return its memory address.
+17. Write a program to demonstrate the lifetime difference between auto and static variables.
+18. Implement a program using the Comma Operator in a for loop definition.
+19. Create a program to calculate the sum of each row in a 2D matrix separately.
+20. Write a program to print a Diamond Pattern of stars.
+21. Implement a program to check if a string contains only digits. 
+22. Write a program using an if-else if ladder to categorize a person as "Child", "Teenager", or "Adult" based on age.

@@ -1,0 +1,43 @@
+1. Write a program to declare an integer array of size 5, initialize it, and print all elements.
+
+2. Create a program to calculate the average of 10 numbers stored in an array.
+
+3. Write a program to find the maximum value in an integer array.
+
+4. Implement a program to copy the contents of one array into another in reverse order.
+
+5. Write a program to count how many positive and negative numbers exist in an array.
+
+6. Create a 3x3 integer matrix and print it in a grid format.
+
+7. Write a program to add two 2x2 matrices and store the result in a third matrix.
+
+8. Implement a Linear Search algorithm to find if a number exists in an array.
+
+9. Write a user-defined function int multiply(int, int) to return the product of two numbers.
+
+10. Create a function that attempts to swap two integers using Call by Value (to demonstrate it fails).
+
+11. Write a recursive function factorial() to calculate the factorial of a number.
+
+12. Implement a program where you pass an array to a function to verify if it is sorted.
+
+13. Write a program to accept a string using gets() and display it using puts().
+
+14. Create a program to calculate the length of a string without using the strlen() library function.
+
+15. Write a program to check if a given string is a Palindrome (e.g., "MADAM").
+
+16. Implement a program to concatenate two strings using the strcat() function.
+
+17. Write a program that uses strcmp() to implement a basic password check.
+
+18. Create a program to reverse a user's name using strrev().
+
+19. Create a program to count the total number of vowels in a string.
+
+20. Write a program to find the transpose of a 3x3 matrix.
+
+21. Implement a program to multiply two matrices.
+
+22. Write a recursive function to generate the Nth term of the Fibonacci sequence.

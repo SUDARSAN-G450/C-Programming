@@ -1,0 +1,31 @@
+1. Write a C program to print "Welcome to C Programming" and explain the purpose of #include<stdio.h>.
+
+2. Define a constant MAX_VAL equal to 100 using #define and use it in a conditional statement.
+
+3. Write a program to demonstrate the memory size of int, char, and double using the sizeof operator.
+
+4. Create a program that declares a global variable using extern and modifies it inside the main function.
+
+5. Write a code snippet showing the difference in range between a signed int and unsigned int.
+
+6. Demonstrate the usage of a static variable in a function to count how many times the function is called.
+
+7. Write a program using the register keyword for a loop counter and explain why it is used.
+
+8. Create a program that takes a character input and prints its corresponding ASCII value.
+
+9. Write a program to swap two integer values without using a third temporary variable.
+
+10. Implement a program that checks if a user-input number is even or odd using the modulus % operator.
+
+11. Write a program using assignment operators (+=, *=) to double a variable's value.
+
+12. Create a program that compares two numbers and prints "Equal", "Greater", or "Lesser" using Relational Operators.
+
+13. Write a program to determine if a student passes (marks > 40) using the Ternary Operator (? :).
+
+14. Implement a program using Logical AND (&&) to check if a number is divisible by both 5 and 10.
+
+15. Write a program to perform Bitwise AND, OR, and XOR on two integers a=5 and b=9.
+
+16. Demonstrate the Left Shift (<<) operator to multiply a number by 2.
