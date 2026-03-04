@@ -1,0 +1,51 @@
+//2. Create a program using switch to check if a character is a Vowel or Consonant
+
+#include <stdio.h>
+int main() {
+    char ch;
+    printf("Enter a character: ");
+    scanf(" %c", &ch);
+    switch(ch) {
+        case 'a':
+        case 'e':
+        case 'i':
+        case 'o':
+        case 'u':
+        case 'A':
+        case 'E':
+        case 'I':
+        case 'O':
+        case 'U':
+            printf("It is a Vowel");
+            break;
+
+        default:
+            if((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'))
+                printf("It is a Consonant");
+            else
+                printf("It is not an alphabet");
+    }
+    return 0;
+}
+
+//3. Write a program to demonstrate the memory size of int, char, and double using the sizeof operator.
+
+#include <stdio.h>
+int main() {
+    printf("Size of int: %zu bytes\n", sizeof(int));
+    printf("Size of char: %zu bytes\n", sizeof(char));
+    printf("Size of double: %zu bytes\n", sizeof(double));
+
+    return 0;
+}
+//4. Create a program that declares a global variable using extern and modifies it inside the main function.
+
+#include <stdio.h>
+int num = 10;  
+int main() {
+    extern int num; 
+    printf("Before modification: %d\n", num);
+    num = 25; 
+    printf("After modification: %d\n", num);
+    return 0;
+}
